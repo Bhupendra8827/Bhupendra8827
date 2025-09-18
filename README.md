@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupendra8827&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendra8827" /> </p>
 
@@ -32,7 +32,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/hibernate/images/hibernate2.png" alt="hibernate" width="40" height="40"/> </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="[https://static.javatpoint.com/hibernate/images/hibernate2.png](https://tse3.mm.bing.net/th/id/OIP.m66eOZqkpo_D8E5VMxRsvgHaCv?pid=Api&P=0&h=180)" alt="hibernate" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
